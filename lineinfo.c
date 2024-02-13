@@ -1,7 +1,5 @@
 //lineinfo.c
-//Assignment one
 //Drake Wheeler
-//CS299
 
 #include <stdio.h>
 #include <stdlib.h>
