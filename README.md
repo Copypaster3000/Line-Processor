@@ -1,4 +1,4 @@
-The purpose of this project was to gain experience in C programming language, particularly with arrays and outputing text to the terminal. Given lines from a file or input from a user the program outputs which lines are over 20 chars, the total number of lines, the longest line, and the shortest line. 
+The purpose of this project was to gain experience in C programming language, particularly with arrays and outputting text to the terminal. Given lines from a file or input from a user the program outputs which lines are over 20 chars, the total number of lines, the longest line, and the shortest line. 
 
 The output is in this particular format: 
 *Warning* Line 2 is truncated.
