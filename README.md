@@ -9,7 +9,7 @@ The purpose of this project is to gain experience in **C programming** with arra
 
 The challenge is to take any text file or user input and output the information in the correct format specified.
 
-# How to Run and Compile:
+## How to Run and Compile:
 To compile and run the project enter the following commands in the terminal while in the project folder:
 
 ```bash
@@ -18,7 +18,7 @@ gcc -o prog lineinfo.c
 ```
 Note: ignore any compiler warnings that may appear.
 
-# Running the program with the given text file
+## Running the program with the given text file
 
 To test the project with the given text file, after running the program select to run it with a text file and then enter "test_text.txt"
 
