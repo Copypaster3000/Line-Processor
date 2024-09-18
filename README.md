@@ -2,8 +2,13 @@
 The purpose of this project was to gain experience in C programming language, particularly with arrays and outputting text to the terminal. Given lines from a file or input from a user the program outputs which lines are over 20 chars, the total number of lines, the longest line, and the shortest line. The output format for this project was given ahead of time so the challenge was to be able to take any text file or user input and output information about it in the exact correct format.
 
 **How to Run and Compile:**  
+(ignore compiler warnings) 
+enter the lines below into the terminal while in the project folder  
+
 gcc -o prog lineinfo.c  
 ./prog  
+
+To test the project with the given text file, after selecting to run the program on a file, enter "test_text.txt"
 
 Running the program with the test file will give output in this particular format:
 *Warning* Line 2 is truncated.  
