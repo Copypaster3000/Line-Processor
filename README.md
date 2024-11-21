@@ -2,7 +2,7 @@
 
 ## Overview
 The purpose of this project is to gain experience in **C programming** with arrays and outputting text to the terminal. Given lines from a file or input from a user, the program outputs:
-- Lines that are over 20 characters.
+- Which lines are over 20 characters.
 - The total number of lines.
 - The longest line.
 - The shortest line.
@@ -22,7 +22,7 @@ Note: ignore any compiler warnings that may appear.
 
 To test the project with the given text file, after running the program select to run it with a text file and then enter "test_text.txt"
 
-Running the program with the test file will give output in this particular format:
+Running the program with the test file will give output in this particular format: 
 \*Warning\* Line 2 is truncated.  
 \*Warning\* Line 5 is truncated.  
 Total number of lines: 5  
