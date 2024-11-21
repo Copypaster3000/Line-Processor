@@ -22,7 +22,7 @@ Note: ignore any compiler warnings that may appear.
 
 To test the project with the given text file, after running the program select to run it with a text file and then enter "test_text.txt"
 
-Running the program with the test file will give output in this particular format: 
+Running the program with the test file will give output in this particular format:   
 \*Warning\* Line 2 is truncated.  
 \*Warning\* Line 5 is truncated.  
 Total number of lines: 5  
